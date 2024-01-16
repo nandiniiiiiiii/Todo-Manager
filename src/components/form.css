@@ -1,0 +1,20 @@
+.entertext{
+    width: 400px;
+    /* background-color: rgb(36, 35, 35); */
+    background-color: orange;
+    height: 20px;
+    border-radius: 10px 0px 0px 10px;
+    color: whitesmoke;
+    user-select: none;
+    border: none;
+    padding: 0px 20px 0px 20px;
+}
+
+.btn{
+    border: none;
+    height: 20px;
+    transform: translate(0%,3%);
+    border-radius: 0px 10px 10px 0px;
+    width: 50px;
+}
+
